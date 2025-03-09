@@ -1,5 +1,8 @@
-# In this project, I successfully designed and confugred Oracle Database on Oracle Cloud Infrastructure (OCI).
+# Database Installation
 
+--
+In this project, I successfully designed and confugred Oracle Database on Oracle Cloud Infrastructure (OCI).
+--
 🔹 Key Achievements
 
 ✅ Successfully installed and configured Oracle Database 12c, 19c on OCI.
