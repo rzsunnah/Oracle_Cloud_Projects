@@ -1,0 +1,1 @@
+In this project, I successfully designed and confugred Oracle Database on Oracle Cloud Infrastructure (OCI). 
