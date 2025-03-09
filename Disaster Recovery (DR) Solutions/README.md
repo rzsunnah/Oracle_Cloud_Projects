@@ -1,0 +1,1 @@
+In this project, I designed and implemented a Disaster Recovery (DR) Solution using Oracle Cloud Infrastructure (OCI) to ensure business continuity and high availability for mission-critical applications and data. The solution leverages automated backups, data replication, and failover strategies to recover from any potential disruptions, minimizing downtime and data loss.
