@@ -1,0 +1,1 @@
+This project involves migrating Oracle E-Business Suite (EBS 12.2) from on-premises to Oracle Cloud Infrastructure (OCI) using the Lift and Shift approachS. The migration helped improve scalability, performance, and disaster recovery while minimizing downtime
