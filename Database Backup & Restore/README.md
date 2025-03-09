@@ -1,0 +1,1 @@
+This project focuses on implementing a robust Database Backup & Restore strategy using Oracle Database and Oracle Cloud Infrastructure (OCI). The goal was to ensure that critical business data is backed up regularly, securely, and efficiently while being able to restore it with minimal downtime during a disaster or data loss incident.
