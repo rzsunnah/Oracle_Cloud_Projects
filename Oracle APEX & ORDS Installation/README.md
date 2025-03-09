@@ -1,0 +1,2 @@
+In this project, I successfully installed and configured Oracle APEX (Application Express) and Oracle REST Data Services (ORDS) to enable rapid application development and web service integration on Oracle Cloud Infrastructure (OCI). The goal was to create a development environment for building modern web applications that interact with the Oracle Database and can be accessed through RESTful APIs.
+
