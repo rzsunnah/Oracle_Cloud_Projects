@@ -15,6 +15,7 @@
 ✅ Achieved business continuity with geographically distributed DR sites.
 
 🔹 Implementation Details
+
 1️⃣ Assessment & Planning
 
 	-- Evaluated business requirements and identified critical applications, databases, and infrastructure components to be included in the DR plan.
