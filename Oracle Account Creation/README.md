@@ -9,3 +9,5 @@
 ✅ Configured IAM (Identity and Access Management) roles for secure access control.
 
 ✅ Successfully accessed and navigated the OCI Console to manage cloud services.
+
+![Alt Text](image.png)
