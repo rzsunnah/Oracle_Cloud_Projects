@@ -14,9 +14,9 @@
 
 ![Alt Text](image.png)
 
-**🔹 Migration Steps**
+🔹 **Migration Steps**
 
-1️⃣ Pre-Migration Assessment & Planning
+1️⃣ **Pre-Migration Assessment & Planning**
 
    -- Evaluated existing EBS infrastructure, storage, and performance metrics.
    
@@ -24,7 +24,7 @@
    
    -- Identified patch requirements for OCI compatibility.
    
-2️⃣ OCI Infrastructure Setup
+2️⃣ **OCI Infrastructure Setup**
 
    -- Created OCI Compute instances for EBS Application and Database tiers.
    
@@ -32,7 +32,7 @@
    
    -- Attached Block Volumes to OCI instances for storage optimization.
    
-3️⃣ Database Migration
+3️⃣ **Database Migration**
 
    -- Used RMAN backup & restore method for data migration.
    
@@ -40,7 +40,7 @@
    
    -- Applied patches and post-migration configurations.
    
-4️⃣ Application Tier Migration
+4️⃣ **Application Tier Migration**
 
    -- Copied EBS application files to OCI Compute instances.
    
@@ -48,7 +48,7 @@
    
    -- Performed end-to-end functional validation.
    
-5️⃣ Post-Migration Validation & Performance Tuning
+5️⃣ **Post-Migration Validation & Performance Tuning**
 
    -- Conducted load testing and performance optimization.
    
