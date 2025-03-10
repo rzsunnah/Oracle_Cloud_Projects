@@ -12,7 +12,7 @@
 
 ✅ Ensured minimal downtime during migration and post-migration validation.
 
-![Alt Text](image.png)
+<img src="image.png" alt="lift&shift" width="800">
 
 🔹 **Migration Steps**
 
