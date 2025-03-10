@@ -10,9 +10,8 @@
 
 ✅ Configured SSL certificates for secure access to the web applications and APIs.
 
-![Alt Text](image.png)
-
-![Alt Text](img2.png)
+<img src="image.png" alt="apex_login" width="800">
+<img src="img2.png" alt="apex_window" width="800">
 
 🔹 **Installation Process**
 
