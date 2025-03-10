@@ -12,6 +12,7 @@
 
 ✅ Ensured minimal downtime during migration and post-migration validation.
 <img src="image.png" alt="lift&shift" width="800">
+
 🔹 **Migration Steps**
 
 1️⃣ **Pre-Migration Assessment & Planning**
