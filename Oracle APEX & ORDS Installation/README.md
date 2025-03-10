@@ -1,10 +1,8 @@
 # Oracle APEX & ORDS Installation
 
---
-I've successfully installed and configured Oracle APEX (Application Express) and Oracle REST Data Services (ORDS) to enable rapid application development and web service integration on Oracle Cloud Infrastructure (OCI). The goal was to create a development environment for building modern web applications that interact with the Oracle Database and can be accessed through RESTful APIs. Also I have done with the web version like Tomcat.
---
+**I've successfully installed and configured Oracle APEX (Application Express) and Oracle REST Data Services (ORDS) to enable rapid application development and web service integration on Oracle Cloud Infrastructure (OCI). The goal was to create a development environment for building modern web applications that interact with the Oracle Database and can be accessed through RESTful APIs. Also I have done with the web version like Tomcat.**
 
-🔹 Key Achievements
+🔹 **Key Achievements**
 
 ✅ Installed and configured Oracle APEX and Oracle REST Data Services (ORDS) with different versions.
 
@@ -12,9 +10,12 @@ I've successfully installed and configured Oracle APEX (Application Express) and
 
 ✅ Configured SSL certificates for secure access to the web applications and APIs.
 
-🔹 Installation Process
+![Alt Text](image.png)
 
-1️⃣ Prerequisites and Planning
+
+🔹 **Installation Process**
+
+1️⃣ **Prerequisites and Planning**
 
   -- Oracle Database: Ensured that an Oracle Database instance is running on Oracle Cloud Infrastructure (OCI).
  
@@ -22,7 +23,7 @@ I've successfully installed and configured Oracle APEX (Application Express) and
 
   -- Web Server: Installed Apache HTTP Server or Oracle HTTP Server (OHS) to handle incoming web requests for Oracle APEX and ORDS.
   
-2️⃣ Installing Oracle APEX
+2️⃣ **Installing Oracle APEX**
 
   -- Downloaded the latest version of Oracle APEX from the official Oracle website.
   
@@ -34,7 +35,7 @@ I've successfully installed and configured Oracle APEX (Application Express) and
 
   -- Enabled and configured the APEX Instance Administration schema for managing applications.
   
-3️⃣ Installing Oracle REST Data Services (ORDS)
+3️⃣ **Installing Oracle REST Data Services (ORDS)**
 
   -- Downloaded the latest version of Oracle REST Data Services (ORDS) from Oracle’s website.
 
