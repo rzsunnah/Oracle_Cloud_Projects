@@ -12,6 +12,7 @@
 
 ![Alt Text](image.png)
 
+![Alt Text](img2.png)
 
 🔹 **Installation Process**
 
