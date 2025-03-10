@@ -14,6 +14,8 @@ This project involves migrating Oracle E-Business Suite (EBS 12.2) from on-premi
 
 ✅ Ensured minimal downtime during migration and post-migration validation.
 
+![Alt Text](image.png)
+
 🔹 Migration Steps
 
 1️⃣ Pre-Migration Assessment & Planning
