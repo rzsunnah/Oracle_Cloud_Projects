@@ -8,7 +8,7 @@
 
 ✅ Applied security patches and implemented secure access controls.
 
-<img src="image.png" alt="db19c" width="800">
+<img src="image.png" alt="db19c" width="600">
 
 🔹 **Installation Process**
 
