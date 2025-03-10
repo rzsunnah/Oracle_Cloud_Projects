@@ -10,4 +10,4 @@
 
 ✅ Successfully accessed and navigated the OCI Console to manage cloud services.
 
-![Alt Text](image.png)
+![Alt Text](image.png) width="200"
