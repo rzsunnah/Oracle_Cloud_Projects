@@ -16,7 +16,7 @@
 
 ✅ Achieved business continuity with geographically distributed DR sites.
 
-![Alt Text](image.png)
+<img src="image.png" alt="account" width="300">
 
 🔹 **Implementation Details**
 
